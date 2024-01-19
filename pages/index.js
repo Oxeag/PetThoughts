@@ -150,6 +150,9 @@ export default function components() {
                             <Button type="submit" variant="dark" disabled={loading || compressing}>
                                 {compressing ? '识别图像中' : loading ? '识别图像中' : '让我看看你在想什么呢'}
                             </Button>
+                            <Button type="button" variant="dark" href="https://www.sealking.top/app/index.php?i=2&c=entry&do=index&m=vp_ph" target="_blank" rel="noopener noreferrer">
+                                更多好玩~
+                            </Button>
                         </div>
                     </form>
                 </div>
@@ -157,9 +160,9 @@ export default function components() {
                 <footer className="flex justify-center items-center">
                     &copy; 2024
                     {'-'}
-                    <a href="https://jingle.bio/liuziting/" target="_blank" rel="noopener noreferrer">
+                    <a href="" target="_blank" rel="noopener noreferrer">
                         {' '}
-                        liuziting
+                        ekko
                     </a>
                     . All rights reserved.
                 </footer>
