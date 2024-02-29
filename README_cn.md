@@ -88,6 +88,12 @@ const parts = [
 
 <img style="width:200px" src="https://iknowwhatyourcatisthinking.netlify.app/qrcode.jpg"/>
 
+## 交流
+
+<a href="https://discord.com/invite/mc6hPwPqZ7">
+    Join our Discord
+</a>
+
 ## 执照
 
 MIT © [liu-ziting](https://github.com/liu-ziting/PetThoughts/blob/main/LICENSE.txt)
